@@ -1,0 +1,286 @@
+body{
+	font-family: arial, helvetica, sans-serif;
+	font-size: 15px;
+	line-height: 1.5;
+	font:15px/1.5 arial,helvetica,sans-serif;
+	padding: 0;
+	background-color: #f4f4f4;
+
+}
+
+/*global*/
+.container{
+	width: 80%;
+	margin: auto;
+	overflow: hidden;
+}
+ ul{
+	margin: 0;
+	padding:0;
+}
+
+.button_1{
+	height: 38px;
+	background:blue;
+	border: 0;
+	padding-left: 20px;
+	padding-right: 20px;
+	color:#ffffff;
+}
+
+/*header*/
+header{
+	background:#42455a;
+	color:#ffffff;
+	padding-top: 30px;
+	min-height: 70px;
+	border-bottom:#e8491d 3px solid;
+}
+
+header a{
+	color:#ffffff;
+	text-decoration: none;
+	text-transform: uppercase;
+	font-size: 16px;
+}
+
+
+header li{
+	float: left;
+	display: inline;
+	padding: 0 20px 0 20px ;
+}
+
+header #menu{
+	float: left;
+}
+
+header #menu h1{
+	margin:0;
+}
+header nav{
+	float: right;
+	margin-top: 10px;
+}
+
+header .highlight, header .current a{
+	color:#e8491d;
+	font-weight: bold;
+}
+header a:hover{
+	color:#cccccc;
+	font-weight: bold;
+}
+
+/*showcase*/
+#showcase{
+	min-height: 400px;
+	background:url("../images/sunrise.jpg");
+	background-repeat: no-repeat;
+	background-size: 2000px;
+	text-align: center;
+	color:blue;
+}
+
+#showcase h1{
+	margin-top: 100px;
+	font-size: 55px;
+	margin-bottom: 10px;
+}
+
+#showcase p{
+	font-size: 20px;
+}
+
+#newsletter{
+
+	padding: 15px;
+	color:#ffffff;
+	background:#35442a;
+}
+
+#newsletter h1{
+	float:left;
+	
+}
+
+#newsletter form{
+	float:right;
+	margin-top: 15px;
+}
+
+#newsletter input[type="email"]{
+	padding: 4px;
+	height: 25px;
+	width: 250px;
+}
+
+/*Boxes*/
+#boxes{
+	margin-top: 20px;
+}
+
+#boxes .box{
+	float: left;
+	text-align: center;
+	width: 30%;
+	padding: 10px;
+}
+
+#boxes .box img{
+	width: 90px; 
+}
+.object{
+	width: 80%;
+	margin: auto;
+	overflow: hidden;
+
+}
+/*using footer section*/
+ footer{
+ 	color:black;
+ 	background-color: yellow;
+ }
+
+  #foot{
+  	background-color: blue;
+  	color:orange;
+  }
+ #h5{
+ 	color:green;
+ }
+ #apps{
+ 	background-color: orange;
+ }
+
+ #motic{
+	margin-top: 20px;
+}
+
+#see{
+	min-height: 400px;
+	background-size: 200px;
+	text-align: center;
+	color:blue;
+}
+/*starting webpage of contact*/
+#cv{
+	background:url("../images/6.jpg");
+
+}
+#see .h7{
+	margin-top: 100px;
+	font-size: 55px;
+	margin-bottom: 10px;
+}
+
+nav{
+	float: right;
+	display: inline;
+	padding: 0 20px 0 20px ;
+	color:white;
+}
+
+#view{
+	min-height: all;
+	background:url("../images/sunrise.jpg");
+	background-repeat: no-repeat;
+	background-size: 2000px;
+	text-align: center;
+	color:blue;
+}
+
+#view h1{
+	margin-top: 100px;
+	font-size: 55px;
+	margin-bottom: 10px;
+}
+
+#view p{
+	font-size: 20px;
+}
+
+#manish{
+	min-height: 1000px;
+	background:url("../images/3.jpg");
+	background-repeat: no-repeat;
+	background-size: 2000px;
+	text-align: auto;
+	color:black;
+}
+ #food{
+ 	background-color: purple;
+	color:green;
+}
+
+#free{
+	background-color: skyblue;
+	color:orange;
+}
+/*Starting CV*/
+
+.outer{
+	width: 700px;
+	height: 800px;;
+	border:1px solid black; 
+	margin: 0px auto;
+	background-color: orange;
+}
+.outer img{
+	width: 10%;
+}
+.bord{
+	width: 98.5%;
+	padding: 5px;
+	background-color: skyblue;
+	border: 1px solid black;
+}
+.bords{
+	width: 98.5%;
+	padding: 5px;
+	background-color: green;
+	border: 1px solid black;
+}
+.java{
+	text-align: center;
+
+
+}
+.java li{
+	text-decoration: none;
+}
+.java{
+	align-content: center;
+}
+.Board{
+	width: 98.5%;
+	padding: 5px;
+	background-color: darkblue;
+	border: 1px solid black;
+}
+#foo{
+	color:blue;
+}
+/*starting reserch section*/
+#rese{
+	background-color: blue;	
+}
+.reser{
+	background-color: orange;
+}
+#rese .rese4{
+	width:100%;
+}
+#sect{
+	color:white;
+}
+#repo{
+	height: 400px;
+}
+body #bllog{
+	font-family: arial, helvetica, sans-serif;
+	font-size: 15px;
+	line-height: 1.5;
+	font:15px/1.5 arial,helvetica,sans-serif;
+	padding: 0;
+	background-color: #f4f4f4;
